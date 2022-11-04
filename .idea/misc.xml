@@ -3,6 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Galih/UNSOED/Materi/Semester 5/Praktikum Pemrograman Mobile G/Responsi/NgobrolKuy/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2125" />
+        <entry key="..\:/Galih/UNSOED/Materi/Semester 5/Praktikum Pemrograman Mobile G/Responsi/NgobrolKuy/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.2125" />
+        <entry key="..\:/Galih/UNSOED/Materi/Semester 5/Praktikum Pemrograman Mobile G/Responsi/NgobrolKuy/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.2125" />
+        <entry key="..\:/Galih/UNSOED/Materi/Semester 5/Praktikum Pemrograman Mobile G/Responsi/NgobrolKuy/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.2125" />
+        <entry key="..\:/Galih/UNSOED/Materi/Semester 5/Praktikum Pemrograman Mobile G/Responsi/NgobrolKuy/app/src/main/res/layout/activity_chat_personal.xml" value="0.25" />
+        <entry key="..\:/Galih/UNSOED/Materi/Semester 5/Praktikum Pemrograman Mobile G/Responsi/NgobrolKuy/app/src/main/res/layout/activity_email_check.xml" value="0.25" />
+        <entry key="..\:/Galih/UNSOED/Materi/Semester 5/Praktikum Pemrograman Mobile G/Responsi/NgobrolKuy/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Galih/UNSOED/Materi/Semester 5/Praktikum Pemrograman Mobile G/Responsi/NgobrolKuy/app/src/main/res/layout/activity_lupa_password.xml" value="0.25" />
+        <entry key="..\:/Galih/UNSOED/Materi/Semester 5/Praktikum Pemrograman Mobile G/Responsi/NgobrolKuy/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Galih/UNSOED/Materi/Semester 5/Praktikum Pemrograman Mobile G/Responsi/NgobrolKuy/app/src/main/res/layout/activity_profile_pic.xml" value="0.25" />
+        <entry key="..\:/Galih/UNSOED/Materi/Semester 5/Praktikum Pemrograman Mobile G/Responsi/NgobrolKuy/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Galih/UNSOED/Materi/Semester 5/Praktikum Pemrograman Mobile G/Responsi/NgobrolKuy/app/src/main/res/layout/activity_setting.xml" value="0.25" />
+        <entry key="..\:/Galih/UNSOED/Materi/Semester 5/Praktikum Pemrograman Mobile G/Responsi/NgobrolKuy/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Galih/UNSOED/Materi/Semester 5/Praktikum Pemrograman Mobile G/Responsi/NgobrolKuy/app/src/main/res/layout/activity_ubah_foto.xml" value="0.25" />
+        <entry key="..\:/Galih/UNSOED/Materi/Semester 5/Praktikum Pemrograman Mobile G/Responsi/NgobrolKuy/app/src/main/res/layout/activity_ubah_password.xml" value="0.2359375" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/circle.xml" value="0.2995" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/gradient_drawable.xml" value="0.268" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/ic_baseline_edit_64.xml" value="0.2995" />

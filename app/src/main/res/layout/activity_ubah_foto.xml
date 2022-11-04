@@ -5,7 +5,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/gradient_drawable"
-    tools:context=".ProfilePicActivity">
+    tools:context=".UbahFotoActivity">
+
+    <ImageView
+        android:id="@+id/back_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_baseline_arrow_back_24"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="32dp"/>
 
     <de.hdodenhof.circleimageview.CircleImageView
         xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -51,7 +61,7 @@
         android:layout_marginStart="64dp"
         android:layout_marginEnd="64dp"
         android:fontFamily="@font/redhatdisplay_regular"
-        android:text="Lengkapi profil Anda dengan foto profil yang cantik."
+        android:text="Ubah Foto"
         android:textColor="@color/white"
         android:gravity="center_horizontal"
         android:textSize="14pt"
@@ -60,25 +70,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/profilePic" />
 
-
-    <TextView
-        android:id="@+id/skip_btn"
-        android:visibility="visible"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Lewati"
-        android:fontFamily="@font/redhatdisplay_regular"
-        android:textStyle="bold"
-        android:textSize="12pt"
-        android:textColor="@color/white"
-        android:layout_margin="32dp"
-        android:background="@drawable/rounded_outline"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
-
     <androidx.cardview.widget.CardView
-        android:id="@+id/set_btn"
-        android:visibility="invisible"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:cardCornerRadius="24dp"
@@ -88,9 +80,10 @@
         android:layout_margin="36dp">
 
         <TextView
+            android:id="@+id/konfirubahfoto"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Lanjut"
+            android:text="Konfirmasi"
             android:fontFamily="@font/redhatdisplay_regular"
             android:textStyle="bold"
             android:textSize="12pt"
